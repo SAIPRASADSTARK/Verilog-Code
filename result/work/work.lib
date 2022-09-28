@@ -1,0 +1,29 @@
+timestamp=1663907504099
+
+[~A]
+LastVerilogToplevel=f_size_array_manipulation_method
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*402*880
+
+[~MFT]
+0=4|0work.mgf|880|0
+1=2|1work.mgf|406|0
+3=4|3work.mgf|826|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92162c467f5716789d8673d277243add3c9f
+
+[f_size_array_manipulation_method]
+A/f_size_array_manipulation_method=22|../testbench.sv|1|1*406
+BinL64/f_size_array_manipulation_method=3*174
+R=../testbench.sv|1
+SLP=3*826
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|6964d00934091cd56f35d5ae99457285ec6ae5cc04e8b388125ee84aaaaae80fd874fde2bf36cb029fa6e21ec2f70413ce53590a55780b156641ffe775ae9155
+
+[~U]
+$root=12|0*0|
+f_size_array_manipulation_method=12|0*198||0x10
