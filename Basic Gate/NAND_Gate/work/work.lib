@@ -1,0 +1,37 @@
+timestamp=1664673446435
+
+[~A]
+LastVerilogToplevel=tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*544*1054
+
+[~MFT]
+0=5|0work.mgf|1054|0
+1=3|1work.mgf|1230|0
+3=6|3work.mgf|1684|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c921618f3ae3e9bfe45f4738549f71bdef075
+
+[nand_gate]
+A/nand_gate=22|../design.sv|2|1*374
+BinL64/nand_gate=3*174
+R=../design.sv|2
+SLP=3*511
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|2007eae39f923382d9cb00fc8cc0f4c0c81403c949c973d597ca82dc9410a01bfd56fdb6198e2fbcf9e194a8b5c0310b
+
+[tb]
+A/tb=22|../testbench.sv|3|1*1230
+BinL64/tb=3*669
+R=../testbench.sv|3
+SLP=3*1684
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8db8692708dc0985d408d2497dbc95fa75b28c4ac91e78fcb0d225c9e11530f0
+
+[~U]
+$root=12|0*0|
+nand_gate=12|0*182|
+tb=12|0*377||0x10
